@@ -1,6 +1,5 @@
 node_modules
 coverage
-dist
 .opt-in
 .opt-out
 .DS_Store
@@ -8,7 +7,6 @@ dist
 .eslintcache
 .docz
 storybook-static
-preact/
 
 cypress/videos
 cypress/screenshots
